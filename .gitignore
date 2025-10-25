@@ -1,0 +1,23 @@
+# Ficheiro de configuração com senhas e segredos
+# (Caso decida usar um .env no futuro)
+.env
+*.env
+
+# Ficheiro com dados reais de passageiros
+# (Queremos partilhar apenas o .example)
+passageiros.csv
+*.csv
+
+# Pastas de cache do Python
+__pycache__/
+
+# Ficheiros de ambiente virtual
+venv/
+*.venv
+
+# Pastas de compilação do PyInstaller
+/dist
+/build
+
+# Ficheiros de especificação do PyInstaller
+*.spec
