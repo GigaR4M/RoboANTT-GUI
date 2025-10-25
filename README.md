@@ -22,7 +22,7 @@ Este repositório contém o código-fonte da aplicação. Para baixar a versão 
 Esta é a forma mais fácil de usar o robô, sem precisar de instalar Python ou qualquer dependência.
 
 1.  **Baixe o Aplicativo:**
-    * Vá à secção **[Releases](https://github.com/SEU_NOME/SEU_REPOSITORIO/releases)** (Lançamentos) deste repositório, no lado direito da página.
+    * Vá à secção **[Releases](https://github.com/GigaR4M/RoboANTT-GUI/releases)** (Lançamentos) deste repositório, no lado direito da página.
     * Baixe o ficheiro `.zip` (ex: `RoboANTT.zip`) da versão mais recente.
 
 2.  **Descompacte o Ficheiro:**
@@ -49,7 +49,7 @@ Se você é um programador e quer executar ou modificar o código-fonte, siga es
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [https://github.com/SEU_NOME/SEU_REPOSITORIO.git](https://github.com/SEU_NOME/SEU_REPOSITORIO.git)
+    git clone [https://github.com/GigaR4M/RoboANTT-GUI.git](https://github.com/GigaR4M/RoboANTT-GUI.git)
     cd SEU_REPOSITORIO
     ```
 
