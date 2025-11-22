@@ -21,3 +21,6 @@ venv/
 
 # Ficheiros de especificação do PyInstaller
 *.spec
+
+# Ficheiro de configuração
+config.json
