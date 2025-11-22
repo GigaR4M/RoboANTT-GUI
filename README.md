@@ -7,9 +7,11 @@ Este repositório contém o código-fonte da aplicação. Para baixar a versão 
 ## Funcionalidades
 
 * **Interface Gráfica:** Não é preciso mexer em código. Todos os dados (credenciais, placa, etc.) são inseridos na janela da aplicação.
+* **Lembrar Credenciais:** Opção para salvar CNPJ e Código de Acesso localmente, evitando digitá-los a cada execução.
 * **Seleção de Arquivo:** Carregue qualquer arquivo `.csv` de passageiros diretamente da sua pasta (ex: Downloads, Documentos).
 * **Login Automático:** A aplicação faz o login e navega até à página correta da solicitação.
 * **Cadastro em Lote:** Adiciona todos os passageiros do seu arquivo `.csv` de uma só vez.
+* **Limpeza Automática:** Os campos "Placa do Veículo" e "Nº da Solicitação" são limpos automaticamente após o cadastro, evitando execuções acidentais duplicadas.
 * **Log Integrado:** Veja o progresso do robô (quem foi adicionado, quem falhou) em tempo real, diretamente na janela da aplicação.
 * **Relatório de Falhas:** No final da execução, um relatório é impresso no log, detalhando quais passageiros falharam e o porquê.
 
