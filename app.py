@@ -140,7 +140,7 @@ def procurar_ficheiro():
 
 # --- 1. Configuração da Janela Principal ---
 root = tk.Tk()
-root.title("Robô de Cadastro ANTT v1.1 (Tkinter)")
+root.title("Robô de Cadastro ANTT v1.2 (Tkinter)")
 root.geometry("600x650") # Define um tamanho (largura x altura)
 
 # --- 2. Criação do Frame Principal ---
